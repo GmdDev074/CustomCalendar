@@ -1,0 +1,16 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <!--#00000000 (fully transparent)-->
+        //ripple colour
+        <shape>
+            <solid android:color="@color/transparent" />   <!--(50% transparent white [#80FFFFFF])-->
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/app_color" />
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+</selector>
