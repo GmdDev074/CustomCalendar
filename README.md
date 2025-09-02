@@ -2,19 +2,29 @@
 
 [![](https://jitpack.io/v/GmdDev074/CustomCalendar.svg)](https://jitpack.io/#GmdDev074/CustomCalendar)
 
-A fully customizable **horizontal scrolling calendar view** for Android.  
-Supports date selection, “Today” navigation, and displaying dynamic data like check-ins, events, or attendance.
+A fully customizable horizontal scrolling calendar view for Android that makes date management intuitive and visually appealing. Designed to be simple to integrate yet highly flexible, this library allows developers to display monthly calendars with dynamic content like check-ins, events, appointments, or attendance.
 
 ---
 
 ## Features
 
-- Horizontal scrollable calendar for current month
-- Highlight selected date
-- “Today” button to navigate quickly to the current date
-- Display associated data per date (e.g., check-ins)
-- Fully customizable colors, fonts, and layouts
-- Lightweight and easy to integrate
+- **Horizontal scrolling monthly view** – smoothly swipe through the days of the month.  
+- **Selectable dates** – highlight the selected date with custom colors and backgrounds.  
+- **Today navigation** – quickly jump back to the current date using a floating action button (FAB).  
+- **Dynamic data support** – attach events, check-ins, or any type of date-specific data and display it in a list below the calendar.  
+- **Fully customizable UI** – change backgrounds, text colors, item spacing, fonts, and more to match your app’s design.  
+- **Lightweight and optimized** – built with RecyclerView for smooth performance even with large datasets.  
+- **Supports edge-to-edge layouts** – works well with modern immersive Android designs.
+
+---
+
+## Use Cases
+
+- Attendance tracking apps  
+- Habit tracking or journaling apps  
+- Event scheduling apps  
+- Health check-ins or appointment logs  
+- Any app requiring date-specific data visualization 
 
 ---
 
@@ -53,7 +63,7 @@ allprojects {
 }
 
 dependencies {
-    implementation("com.github.GmdDev074:CustomCalendar:919bb465c8")
+    implementation("com.github.GmdDev074:CustomCalendar:v1.0.0")
 }
 
 
