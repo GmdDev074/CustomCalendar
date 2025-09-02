@@ -18,6 +18,13 @@ Supports date selection, “Today” navigation, and displaying dynamic data lik
 
 ---
 
+## Screenshots
+
+Screenshots
+<p float="left"> <img src="https://github.com/user-attachments/assets/820036fa-5d14-4f33-9d63-2834cfc1a087" width="180" /> <img src="https://github.com/user-attachments/assets/05fa279d-6b5d-4879-aed5-8e3661f6f9ac" width="180" /> <img src="https://github.com/user-attachments/assets/ff51e500-a671-4dcf-bb8f-7d40246363b0" width="180" /> <img src="https://github.com/user-attachments/assets/fcd5e259-100f-4913-bd91-3d786a82d2b9" width="180" /> </p>
+
+---
+
 ## Customization
 
 Colors: Update bg_day_selected.xml and bg_day_normal.xml for selected and normal day backgrounds.
