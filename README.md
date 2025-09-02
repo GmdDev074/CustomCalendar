@@ -46,7 +46,7 @@ allprojects {
 }
 
 dependencies {
-    implementation("com.github.GmdDev074:CustomCalendar:v1.0.0")
+    implementation("com.github.GmdDev074:CustomCalendar:919bb465c8")
 }
 
 
