@@ -2,6 +2,53 @@
 
 [![](https://jitpack.io/v/GmdDev074/CustomCalendar.svg)](https://jitpack.io/#GmdDev074/CustomCalendar)
 
+![GitHub stars](https://img.shields.io/github/stars/GmdDev074/CustomCalendar?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GmdDev074/CustomCalendar?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/GmdDev074/CustomCalendar?style=social)
+
+![License](https://img.shields.io/github/license/GmdDev074/CustomCalendar)
+![GitHub release](https://img.shields.io/github/v/release/GmdDev074/CustomCalendar)
+![Release Date](https://img.shields.io/github/release-date/GmdDev074/CustomCalendar)
+![Issues](https://img.shields.io/github/issues/GmdDev074/CustomCalendar)
+![Pull Requests](https://img.shields.io/github/issues-pr/GmdDev074/CustomCalendar)
+![Top Language](https://img.shields.io/github/languages/top/GmdDev074/CustomCalendar)
+![Contributors](https://img.shields.io/github/contributors/GmdDev074/CustomCalendar)
+
+![Last Commit](https://img.shields.io/github/last-commit/GmdDev074/CustomCalendar)
+![GitHub all releases](https://img.shields.io/github/downloads/GmdDev074/CustomCalendar/total)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/GmdDev074/CustomCalendar)
+![Maintenance](https://img.shields.io/maintenance/yes/2025)
+[![codecov](https://codecov.io/gh/GmdDev074/CustomCalendar/branch/main/graph/badge.svg)](https://codecov.io/gh/GmdDev074/CustomCalendar)
+![Dependabot Status](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)
+![GitHub Discussions](https://img.shields.io/github/discussions/GmdDev074/CustomCalendar)
+![GitHub Wiki](https://img.shields.io/badge/wiki-available-brightgreen)
+
+![Min SDK](https://img.shields.io/badge/minSdk-21%2B-blue)
+![API](https://img.shields.io/badge/API-21%2B-green.svg?style=flat)
+![Lint](https://img.shields.io/badge/lint-passing-brightgreen)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-red)](https://github.com/sponsors/GmdDev074)
+
+---
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=GmdDev074/CustomCalendar)](https://github.com/GmdDev074/CustomCalendar/graphs/contributors)
+
+---
+
+## Repo Stats
+
+
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=GmdDev074&repo=CustomCalendar)](https://github.com/GmdDev074/CustomCalendar)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GmdDev074&repo=CustomCalendar)](https://github.com/GmdDev074/CustomCalendar)
+
+
+---
+
+## Overview
+
+
 A fully customizable horizontal scrolling calendar view for Android that makes date management intuitive and visually appealing. Designed to be simple to integrate yet highly flexible, this library allows developers to display monthly calendars with dynamic content like check-ins, events, appointments, or attendance.
 
 ---
