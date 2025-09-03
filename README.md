@@ -98,7 +98,7 @@ Dynamic Data: Connect your own adapter (like CheckInAdapter) to display per-date
 
 ### Step 1: Add JitPack repository
 
-Add the JitPack repository in your **project-level** `build.gradle`:
+Add the JitPack repository in your **project-level** `build.gradle` or `settings.gradle`:
 
 ```gradle
 allprojects {
@@ -109,12 +109,20 @@ allprojects {
     }
 }
 
-dependencies {
+```
+
+### 2: Add Dependency
+
+Add dependency in your **app-level** `build.gradle`:
+
+```dependencies {
     implementation("com.github.GmdDev074:CustomCalendar:v1.0.0")
 }
+```
 
+### Step 3: Integrate in your project
 
-
+```
 <androidx.recyclerview.widget.RecyclerView
     android:id="@+id/calendarRecyclerView"
     android:layout_width="match_parent"
@@ -145,5 +153,17 @@ fabToday.setOnClickListener {
     calendarAdapter.setInitialSelected(LocalDate.now())
     scrollToToday()
 }
+
+```
+---
+
+## ⭐ Support
+
+If you like **CustomCalendar** and find it helpful, please **give it a ⭐ on GitHub**!  
+
+Your support helps us improve the library, add new features, and keep it maintained.
+
+[![GitHub Stars](https://img.shields.io/github/stars/GmdDev074/CustomCalendar?style=social)](https://github.com/GmdDev074/CustomCalendar/stargazers)
+
 
 
