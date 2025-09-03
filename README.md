@@ -37,15 +37,6 @@
 
 ---
 
-## Repo Stats
-
-
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=GmdDev074&repo=CustomCalendar)](https://github.com/GmdDev074/CustomCalendar)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GmdDev074&repo=CustomCalendar)](https://github.com/GmdDev074/CustomCalendar)
-
-
----
-
 ## Overview
 
 
